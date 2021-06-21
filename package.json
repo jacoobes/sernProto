@@ -1,0 +1,24 @@
+{
+  "name": "sernproto",
+  "version": "1.0.0",
+  "description": "A simple key/value database using protobuf files",
+  "main": "dist/app.js",
+  "scripts": {
+    "start": "tsc && node dist/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacoobes/sernProto.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jacoobes/sernProto/issues"
+  },
+  "homepage": "https://github.com/jacoobes/sernProto#readme",
+  "devDependencies": {
+    "tslint": "^6.1.3",
+    "typescript": "^4.3.4"
+  }
+}
