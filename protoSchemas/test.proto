@@ -1,9 +1,0 @@
-package yo; 
-
-syntax = "proto3";
-
-message Sup {
-    string name = 0;
-    map<string, int32> mappo = 1;
-
-}
